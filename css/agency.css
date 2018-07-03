@@ -70,8 +70,8 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #0097cb;
+  border-color: #0097cb;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -103,7 +103,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color: #212529;
+  background-color: #05050e;
 }
 
 #mainNav .navbar-toggler {
@@ -161,7 +161,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #212529;
+    background-color: #05050e;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
@@ -172,7 +172,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/ny.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
